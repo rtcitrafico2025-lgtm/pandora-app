@@ -1,0 +1,7 @@
+Día 1 al 5: Cobrar.
+
+Día 6: Reportar morosos al Patrón.
+
+Día 7: Si no hay pago, se corta el sistema.
+
+Aviso: El Panel 04 (Dueño) es básico. El Premium se paga aparte.
